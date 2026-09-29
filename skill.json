@@ -1,0 +1,20 @@
+{
+  "name": "genpark-conditional-branch-router-state-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Dynamic predicate evaluator over agent state dictionaries for dynamic workflow branch routing",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "branch-router",
+    "state-evaluator",
+    "workflow-graph",
+    "decision-tree",
+    "conditional-routing",
+    "python-standard-library",
+    "agent-skills",
+    "dynamic-flow",
+    "orchestration",
+    "developer-tools"
+  ]
+}
